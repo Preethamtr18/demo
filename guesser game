@@ -18,7 +18,7 @@ public class guessergame {
         {   System.out.println("guess the number");
             guess=sc.nextInt();
 
-            if(number==guess)
+            if(number==guess)//hi
             { System.out.println(
                 "Congratulations!"
                 + " You guessed the number.");
